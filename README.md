@@ -1,2 +1,6 @@
 # datafile-io
-Connect to your cycling computer and see your performance data. No Strava required
+- Connect to your Bluetooth LE devices (PM, HR, Cadence)
+- Real-time performance data.
+- Record your ride.
+- Upload to the Cloud.
+- No Strava required.
